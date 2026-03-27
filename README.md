@@ -1,2 +1,3 @@
 # douayrheimsbible
-douay rheims bible
+
+Douay-Rheims 1899 American Edition (DRA) in JSON format.
