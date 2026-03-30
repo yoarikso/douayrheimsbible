@@ -2,6 +2,8 @@
 
 This douayrheims.py project, written in Python, converts the Douay-Rheims 1899 American Edition (DRA) Challoner Catholic Bible into JSON format.
 
+Totus Tuus, Ad Majorem Dei Gloriam! +
+
 ## Overview
 
 The Python script `douayrheims.py` downloads the HTML files from the BibleGateway website and converts them into JSON format. The JSON files are saved in the douayrheims-json directory with both Old Testament (OT) and New Testament (NT) books.
