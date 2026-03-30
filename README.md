@@ -1,6 +1,6 @@
-# Douay-Rheims 1899 American Edition (DRA) Catholic Bible in JSON
+# Douay-Rheims 1899 American Edition (DRA) Challoner Catholic Bible in JSON
 
-This douayrheims.py project, written in Python, converts the Douay-Rheims 1899 American Edition (DRA) Catholic Bible into JSON format.
+This douayrheims.py project, written in Python, converts the Douay-Rheims 1899 American Edition (DRA) Challoner Catholic Bible into JSON format.
 
 ## Overview
 
